@@ -1,8 +1,13 @@
 import React from 'react'
+import './HeaderComponent.css'
 
 const HeaderComponent = () => {
   return (
-    <div>HeaderComponent</div>
+    <React.Fragment>
+        <p className='sub-heading'>not a</p>
+        <p className='main-heading'>Social Media App</p> 
+    </React.Fragment>
+    
   )
 }
 

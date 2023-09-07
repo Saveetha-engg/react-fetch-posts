@@ -1,8 +1,9 @@
 import React from 'react'
+import './FooterComponent.css'
 
 const FooterComponent = () => {
   return (
-    <div>FooterComponent</div>
+    <p className='footer'>Created with &hearts; by Sethu Ravichandran</p>
   )
 }
 
