@@ -9,11 +9,9 @@
 
 .button-container
 {
-
     padding : 1vw 0 1vw 0;
     margin: 0 7vw 0 7vw;
-    text-align: center;
-    
+    text-align: center;  
 }
 
 .get-post-button{
@@ -37,4 +35,5 @@
     text-align: center;
     margin: 1px;
     margin-bottom: 1vw;
+    padding: 0 1vw 0 1vw;
 }
