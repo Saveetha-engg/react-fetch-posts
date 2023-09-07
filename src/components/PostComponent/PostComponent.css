@@ -27,10 +27,12 @@
     text-align: center;
     margin: 1px;
     margin-bottom: 1vw;
+    font-family: 'Bricolage Grotesque', sans-serif;
 }
 
 .post-data
 {
+    font-family: 'Shadows Into Light', cursive;
     font-size: 1.5em;
     text-align: center;
     margin: 1px;
